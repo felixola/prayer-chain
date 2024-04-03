@@ -158,9 +158,7 @@ const SignUp = () => {
                                             borderRadius: '10px 0px 0 10px',
                                             border: 'none',
                                           }}
-                                          containerStyle={{
-                                            
-                                          }}
+                                          
                                         />
 
                                 </Stack>
